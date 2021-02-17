@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "4409f996-10c4-4681-a0a8-0624484beb96",
+            "Value": {
+                "id": "592a7e6f-f33c-49d2-8dee-453186b43c6f",
+                "resourcePath": "scripts\\json_read\\json_read.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "561d7b9c-ab11-4413-9e92-f18fd90f51e3",
             "Value": {
                 "id": "97c94ab4-7a34-445a-a7c7-459e02566783",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "6741c6a3-5451-4faf-b5a6-f8ae96f74b4c",
+            "Value": {
+                "id": "d4ee8fab-e330-4217-8381-ea5ea1ba0594",
+                "resourcePath": "objects\\obj_entity\\obj_entity.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "82bd9bd3-1c7e-457c-87b4-7930cca37c77",
             "Value": {
                 "id": "9df75ca0-619e-4935-bbeb-f72cba5bc45c",
@@ -100,6 +116,14 @@
                 "id": "b1e49d39-f456-47a5-85cc-e02b9ee6de70",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "911a58e6-b030-49d3-aed9-3528f921cb65",
+            "Value": {
+                "id": "11b9f9ee-cbc1-4c4b-8797-e04a0a2641dd",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -191,6 +215,14 @@
             }
         },
         {
+            "Key": "d042eabe-f4fd-4b51-8434-719f5f6e751c",
+            "Value": {
+                "id": "c65838fc-ea98-4148-b3cb-e16be9d60f7f",
+                "resourcePath": "datafiles_yy\\star_ship.json.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "e2fc801a-aa58-4873-a314-3840977d4f25",
             "Value": {
                 "id": "2486de20-04f0-4a25-b4e2-bb2611a101bc",
@@ -221,10 +253,18 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "fb2eaf92-9f21-4c9e-acf5-35e97b3258e4",
+            "Value": {
+                "id": "8b6eab14-bd1d-4df3-baaa-f1d75eec6222",
+                "resourcePath": "objects\\obj_gui\\obj_gui.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        
+        "4409f996-10c4-4681-a0a8-0624484beb96"
     ],
     "tutorial": ""
 }
