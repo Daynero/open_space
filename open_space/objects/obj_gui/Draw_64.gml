@@ -29,3 +29,7 @@ draw_rectangle(hpx1+1, py2-hp_diff+1,hpx2-1, py2-1,0)
 draw_set_color(c_blue)
 draw_rectangle(mpx1+1, py2-mp_diff+1,mpx2-1, py2-1,0)
 
+draw_set_color(c_white)
+with obj_enemy {
+	draw_text(bbox_left, bbox_bottom, string(round(hp_current)) + " / " + string(round(hp)))	
+}

@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": false,
     "configs": [
-        
+        "default"
     ],
     "option_ecma": false,
     "parentProject": {
@@ -44,6 +44,14 @@
                 "id": "569e4386-f9d6-469a-96bd-f4faeb2ba645",
                 "resourcePath": "views\\09fffce3-f9dc-4b15-b9af-cf0b85e951e1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0a45a062-4752-4924-86b2-55a851298542",
+            "Value": {
+                "id": "aa96921c-f235-493e-91e7-4ca3ed582efb",
+                "resourcePath": "scripts\\sd\\sd.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -95,11 +103,43 @@
             }
         },
         {
+            "Key": "61b2b725-6fd7-44ae-80dc-e8accd305ecd",
+            "Value": {
+                "id": "6f50b0ab-89fa-4de3-90a4-51ed5bb22312",
+                "resourcePath": "scripts\\check_death\\check_death.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6397f133-a34b-48d8-8a43-6d076385d2e0",
+            "Value": {
+                "id": "a04fb272-6cb2-41eb-a559-c19312084bfb",
+                "resourcePath": "scripts\\death\\death.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6741c6a3-5451-4faf-b5a6-f8ae96f74b4c",
             "Value": {
                 "id": "d4ee8fab-e330-4217-8381-ea5ea1ba0594",
                 "resourcePath": "objects\\obj_entity\\obj_entity.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "77dea24c-f99f-4098-bcea-775a830e760e",
+            "Value": {
+                "id": "1b72c479-a771-4761-82b9-5d2cb902d50e",
+                "resourcePath": "objects\\obj_test\\obj_test.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "81a64dfe-29a3-426d-91af-7d876fc1dd69",
+            "Value": {
+                "id": "d68d387c-1bda-42ff-8d26-645106e9e885",
+                "resourcePath": "scripts\\take_damage\\take_damage.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -215,11 +255,27 @@
             }
         },
         {
+            "Key": "cf311e5a-0cfa-470f-b183-13b3b9ff8bc2",
+            "Value": {
+                "id": "20b3b04f-fe13-46a3-8091-99e1a3efe8d9",
+                "resourcePath": "scripts\\regen\\regen.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d042eabe-f4fd-4b51-8434-719f5f6e751c",
             "Value": {
                 "id": "c65838fc-ea98-4148-b3cb-e16be9d60f7f",
                 "resourcePath": "datafiles_yy\\star_ship.json.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "e00b4bd9-97ae-40b1-b35d-3f6ca72edeff",
+            "Value": {
+                "id": "a32017c0-2af9-4f9b-aa5f-52deb3677190",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -255,6 +311,14 @@
             }
         },
         {
+            "Key": "f91f60ae-83cd-4b97-93f2-4cb9e5d6ef37",
+            "Value": {
+                "id": "5a66525e-9893-476f-a6a9-0659ee236daf",
+                "resourcePath": "sprites\\test_enemy\\test_enemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fb2eaf92-9f21-4c9e-acf5-35e97b3258e4",
             "Value": {
                 "id": "8b6eab14-bd1d-4df3-baaa-f1d75eec6222",
@@ -264,7 +328,12 @@
         }
     ],
     "script_order": [
-        "4409f996-10c4-4681-a0a8-0624484beb96"
+        "4409f996-10c4-4681-a0a8-0624484beb96",
+        "0a45a062-4752-4924-86b2-55a851298542",
+        "81a64dfe-29a3-426d-91af-7d876fc1dd69",
+        "61b2b725-6fd7-44ae-80dc-e8accd305ecd",
+        "6397f133-a34b-48d8-8a43-6d076385d2e0",
+        "cf311e5a-0cfa-470f-b183-13b3b9ff8bc2"
     ],
     "tutorial": ""
 }
