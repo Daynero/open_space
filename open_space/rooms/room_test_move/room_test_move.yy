@@ -1,13 +1,13 @@
 
 {
-    "name": "room0",
+    "name": "room_test_move",
     "id": "1185f4b7-ad8b-4f9b-8108-b23f20b065d1",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "5b4d6430-732f-429b-bcdf-0211a37855ed"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_54B1E0B","id": "5b4d6430-732f-429b-bcdf-0211a37855ed","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_54B1E0B","objId": "868a988d-5d5b-4d5d-8eda-5dccb680bf34","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 480,"y": 384}
             ],
             "layers": [
 

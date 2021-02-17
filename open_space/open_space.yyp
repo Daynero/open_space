@@ -58,8 +58,16 @@
             "Key": "1185f4b7-ad8b-4f9b-8108-b23f20b065d1",
             "Value": {
                 "id": "dfad49c6-cafb-4c49-8c3e-96e856a642b3",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_test_move\\room_test_move.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "1fd43911-3ed4-49ba-a136-ed65cabca3b0",
+            "Value": {
+                "id": "f9ba573b-4c4c-4144-8dd8-d52cccde1a6b",
+                "resourcePath": "sprites\\spr_main_ship\\spr_main_ship.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -100,6 +108,14 @@
                 "id": "b1e49d39-f456-47a5-85cc-e02b9ee6de70",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "868a988d-5d5b-4d5d-8eda-5dccb680bf34",
+            "Value": {
+                "id": "cf2a1efb-6292-43a9-93bc-8d473ebbbc79",
+                "resourcePath": "objects\\obj_main_ship\\obj_main_ship.yy",
+                "resourceType": "GMObject"
             }
         },
         {
