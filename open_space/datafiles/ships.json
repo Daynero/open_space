@@ -1,0 +1,22 @@
+{
+	"test": {
+		"hp": 100,
+		"mp": 100,
+		"armor": 100,
+		"move_speed": 10,
+		"hp_regen": 1,
+		"mp_regen": 1,
+		"crit_mod": 1,
+		"block_mod": 1,
+	},
+	"test_enemy": {
+		"hp": 1000,
+		"mp": 150,
+		"armor": 600,
+		"move_speed": 20,
+		"hp_regen": 10,
+		"mp_regen": 10,
+		"crit_mod": 1,
+		"block_mod": 1,
+	}
+}

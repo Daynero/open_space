@@ -1,0 +1,41 @@
+{
+	"front": {
+		"test": {
+			"damage": 100,
+			"attack_speed": 100,
+			"attack_pause": 1,
+			"penetrating": 0,
+			"crit_chance": 0,
+			"crit_damage": 2,
+			"damage_type": "default",
+			"diffx": 0,
+			"diffy": -30,
+		},
+	},
+	"left": {
+		"test": {
+			"damage": 80,
+			"attack_speed": 85,
+			"attack_pause": 0.95,
+			"penetrating": 0,
+			"crit_chance": 5,
+			"crit_damage": 1.5,
+			"damage_type": "default",
+			"diffx": -50,
+			"diffy": 15,
+		},
+	},
+	"right": {
+		"test": {
+			"damage": 80,
+			"attack_speed": 85,
+			"attack_pause": 0.95,
+			"penetrating": 0,
+			"crit_chance": 5,
+			"crit_damage": 1.5,
+			"damage_type": "default",
+			"diffx": 50,
+			"diffy": 15,
+		},
+	}
+}
