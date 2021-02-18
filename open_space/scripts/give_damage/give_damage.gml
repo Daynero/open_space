@@ -11,4 +11,4 @@ var crit_chance = argument[1] > max_crit_chance ? max_crit_chance : argument[1]
 var crit_damage = argument[2]
 if random(100) < crit_chance 
 	damage *= crit_damage
-
+return damage

@@ -13,8 +13,8 @@ var py2  = room_height - 125
 draw_rectangle_color(hpx1, py1, hpx2, py2,c_white,c_green,c_silver,c_fuchsia,1)
 draw_rectangle_color(mpx1, py1, mpx2, py2, c_white,c_green,c_silver,c_fuchsia,1)
 
-var hp_precent
-var mp_precent
+var hp_precent = 0
+var mp_precent = 0
 
 with obj_player {
 	hp_precent = (hp_current * 100) / hp

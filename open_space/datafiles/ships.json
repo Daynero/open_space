@@ -1,8 +1,8 @@
 {
 	"test": {
-		"hp": 100,
+		"hp": 10000,
 		"mp": 100,
-		"armor": 100,
+		"armor": 1000,
 		"move_speed": 10,
 		"hp_regen": 1,
 		"mp_regen": 1,

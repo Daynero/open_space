@@ -6,8 +6,8 @@ if !is_real(argument[0]) { sd("script take_damage argument is not real") exit}
 var damage = argument[0]
 var armor_mp = armor/1500 >= 0.85 ? 0.85 : armor/1500
 var total_damage = damage - damage*armor_mp
-sd("damage " + string(damage))
-sd("armor_mp " + string_format(armor_mp, 10, 10))
-sd("total_damage " + string(total_damage))
+//sd("damage " + string(damage))
+//sd("armor_mp " + string_format(armor_mp, 10, 10))
+//sd("total_damage " + string(total_damage))
 hp_current -= total_damage
 check_death()

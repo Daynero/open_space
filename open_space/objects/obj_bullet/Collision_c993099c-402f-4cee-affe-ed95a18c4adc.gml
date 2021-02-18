@@ -1,5 +1,4 @@
 /// @description 
-with other {
-	take_damage(other.damage)	
-	instance_destroy(other)
+if !player_target {
+	bullet_deal_damage()
 }

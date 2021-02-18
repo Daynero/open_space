@@ -10,4 +10,4 @@ block_mod = 1
 hp_current = hp
 mp_current = mp
 setted_guns = ds_list_create()
-ds_list_add(setted_guns, instance_create_depth(x,y,depth-1,obj_gun_left))
+rotation = image_angle
