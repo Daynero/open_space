@@ -11,5 +11,4 @@ diffx = 0
 diffy = 0
 type = "front"
 attack_time = aspeed()
-alarm[0]= attack_time
 

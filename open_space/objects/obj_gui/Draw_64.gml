@@ -34,9 +34,9 @@ with obj_enemy {
 	draw_text(bbox_left, bbox_bottom, string(round(hp_current)) + " / " + string(round(hp)))	
 	
 }
-with obj_gun {
-	//1.7 = 700
-	//1 = 1190
-	draw_text(bbox_left, bbox_top-30, "aspeed " + string(base_attack_speed + attack_speed) + " /// " + string(""))	
+//with obj_gun {
+//	//1.7 = 700
+//	//1 = 1190
+//	draw_text(bbox_left, bbox_top-30, "aspeed " + string(base_attack_speed + attack_speed) + " /// " + string(""))	
 	
-}
+//}
