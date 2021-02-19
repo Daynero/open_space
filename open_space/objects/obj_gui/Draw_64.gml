@@ -32,4 +32,11 @@ draw_rectangle(mpx1+1, py2-mp_diff+1,mpx2-1, py2-1,0)
 draw_set_color(c_white)
 with obj_enemy {
 	draw_text(bbox_left, bbox_bottom, string(round(hp_current)) + " / " + string(round(hp)))	
+	
+}
+with obj_gun {
+	//1.7 = 700
+	//1 = 1190
+	draw_text(bbox_left, bbox_top-30, "aspeed " + string(base_attack_speed + attack_speed) + " /// " + string(""))	
+	
 }
