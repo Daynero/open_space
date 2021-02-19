@@ -9,7 +9,6 @@
     "option_android_arch_x86": false,
     "option_android_arch_x86_64": false,
     "option_android_build_tools": "28.0.3",
-    "option_android_compile_sdk": "30",
     "option_android_device_support": 1,
     "option_android_display_name": "Made in GameMaker Studio 2",
     "option_android_facebook_app_display_name": "",
