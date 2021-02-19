@@ -10,4 +10,5 @@ block_mod = 1
 hp_current = hp
 mp_current = mp
 setted_guns = ds_list_create()
+image_angle = 90
 rotation = image_angle
