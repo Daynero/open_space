@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "573a41c9-c55b-4447-b066-a958fbd93234",
+            "Value": {
+                "id": "3669e062-114b-470d-8181-9e12fed5e32b",
+                "resourcePath": "objects\\obj_parrent_moving\\obj_parrent_moving.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5ab50227-a5ed-4317-8a81-0403a75a698c",
             "Value": {
                 "id": "73b74231-2a11-4cbe-af33-c403ed8e0844",
