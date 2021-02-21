@@ -5,8 +5,8 @@ switch global_move_state {
 		
 		break
 	#endregion	
-	#region manual_under_finger
-	case move.manual_under_finger:
+	#region player_manual_tap
+	case move.player_manual_tap:
 		#region Locale State Machine
 		switch locale_state {
 			#region finger_down
@@ -23,8 +23,8 @@ switch global_move_state {
 		#endregion
 		break
 	#endregion
-	#region manual_drag
-	case move.manual_drag:
+	#region player_manual_drag
+	case move.player_manual_drag:
 		#region Locale State Machine
 		switch locale_state {
 			#region finger_down

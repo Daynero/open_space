@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "068df749-51a0-440e-b1c9-aad615bee05b",
+            "Value": {
+                "id": "c5d08f8b-07d0-4e31-be00-276d5a842ed2",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "09fffce3-f9dc-4b15-b9af-cf0b85e951e1",
             "Value": {
                 "id": "569e4386-f9d6-469a-96bd-f4faeb2ba645",
@@ -84,6 +92,14 @@
                 "id": "9a0e25ee-a52a-440d-8775-d959cc54674d",
                 "resourcePath": "views\\2b70dfd3-04c5-4551-b3d5-f05bd8bc554b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3da0ca1e-6c2f-40b1-bc73-09cca7a129c4",
+            "Value": {
+                "id": "cc4b3ded-ebee-415f-b59b-5478f709471b",
+                "resourcePath": "scripts\\calculate_warning_zone\\calculate_warning_zone.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -231,6 +247,14 @@
             }
         },
         {
+            "Key": "e2162c56-63fb-4e39-b838-b32fd2c988ce",
+            "Value": {
+                "id": "0ffbb8d1-9cb7-4e3f-b545-5200a121d71d",
+                "resourcePath": "scripts\\setup_view\\setup_view.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e2fc801a-aa58-4873-a314-3840977d4f25",
             "Value": {
                 "id": "2486de20-04f0-4a25-b4e2-bb2611a101bc",
@@ -261,10 +285,20 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "ffe55e5f-7618-415b-a22a-8bd678ae9e4a",
+            "Value": {
+                "id": "5b7da7d4-4d82-4433-8870-3dbdd2ade219",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        "3fabf66d-2e76-40c5-86de-1b0386096662"
+        "3fabf66d-2e76-40c5-86de-1b0386096662",
+        "e2162c56-63fb-4e39-b838-b32fd2c988ce",
+        "3da0ca1e-6c2f-40b1-bc73-09cca7a129c4"
     ],
     "tutorial": ""
 }

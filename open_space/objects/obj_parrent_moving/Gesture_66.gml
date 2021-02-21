@@ -5,8 +5,8 @@ switch global_move_state {
 		
 		break
 	#endregion	
-	#region manual_under_finger
-	case move.manual_under_finger:
+	#region player_manual_tap
+	case move.player_manual_tap:
 		
 		if (event_data[?"touch"] == 0) {
 			locale_state = locale_move.finger_down
@@ -16,8 +16,8 @@ switch global_move_state {
 		
 		break
 	#endregion
-	#region manual_drag
-	case move.manual_drag:
+	#region player_manual_drag
+	case move.player_manual_drag:
 		
 		if (event_data[?"touch"] == 0) {
 			locale_state = locale_move.finger_down
