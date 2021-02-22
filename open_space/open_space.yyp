@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "96f03838-9ac6-4a85-bc75-f828a2fc69a2",
+            "Value": {
+                "id": "f4dd4202-03bf-461b-bb29-23379d7f8598",
+                "resourcePath": "scripts\\slowmo\\slowmo.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "991a5563-0c12-4cdb-a049-aab07d050b84",
             "Value": {
                 "id": "6d9f6451-f446-4a8d-a1dc-1f6d8bee8486",
@@ -566,7 +574,8 @@
         "94fb9cc7-ad52-4223-b137-fa130280d763",
         "e0d49d84-d346-40fa-968d-518e8de67f04",
         "08aec2a6-31bb-4da4-80e8-8b9aeee9561f",
-        "2323a26f-6268-4363-a32a-319f2503e78d"
+        "2323a26f-6268-4363-a32a-319f2503e78d",
+        "96f03838-9ac6-4a85-bc75-f828a2fc69a2"
     ],
     "tutorial": ""
 }

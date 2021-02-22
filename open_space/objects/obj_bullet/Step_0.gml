@@ -1,2 +1,2 @@
 /// @description 
-//sd(image_angle)
+speed = spd*(room_speed/60)
