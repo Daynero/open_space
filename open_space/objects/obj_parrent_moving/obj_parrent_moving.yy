@@ -1,58 +1,68 @@
 {
-    "id": "868a988d-5d5b-4d5d-8eda-5dccb680bf34",
+    "id": "573a41c9-c55b-4447-b066-a958fbd93234",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_main_ship",
+    "name": "obj_parrent_moving",
     "eventList": [
         {
-            "id": "be2e7d97-989d-4f85-a197-66cd579c9433",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 67,
-            "eventtype": 13,
-            "m_owner": "868a988d-5d5b-4d5d-8eda-5dccb680bf34"
-        },
-        {
-            "id": "e1d02a55-9cef-46be-80e3-697f5d39cde0",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 66,
-            "eventtype": 13,
-            "m_owner": "868a988d-5d5b-4d5d-8eda-5dccb680bf34"
-        },
-        {
-            "id": "e34c3ed8-2f69-4b22-b734-8cebb5b39d60",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "868a988d-5d5b-4d5d-8eda-5dccb680bf34"
-        },
-        {
-            "id": "858ee00e-8d4e-4aab-adeb-79640119d4f3",
+            "id": "a411a14d-0517-4fb2-b6dc-5ad38290dbb7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "868a988d-5d5b-4d5d-8eda-5dccb680bf34"
+            "m_owner": "573a41c9-c55b-4447-b066-a958fbd93234"
         },
         {
-            "id": "d562bd02-910e-415d-a06f-d7bac1124cec",
+            "id": "6930becb-3e21-4809-937d-c3cab0a16f27",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "573a41c9-c55b-4447-b066-a958fbd93234"
+        },
+        {
+            "id": "688aa51c-948f-4a27-9924-c9835f38e1b0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 66,
+            "eventtype": 13,
+            "m_owner": "573a41c9-c55b-4447-b066-a958fbd93234"
+        },
+        {
+            "id": "4c9eb607-fb27-4d14-88f3-cb88a839e765",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 67,
+            "eventtype": 13,
+            "m_owner": "573a41c9-c55b-4447-b066-a958fbd93234"
+        },
+        {
+            "id": "929809b1-3fc9-495f-a06b-ebeb3b3b3bec",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 68,
             "eventtype": 13,
-            "m_owner": "868a988d-5d5b-4d5d-8eda-5dccb680bf34"
+            "m_owner": "573a41c9-c55b-4447-b066-a958fbd93234"
+        },
+        {
+            "id": "dfb1e5a8-3fb3-4994-b47b-84b6ba5c8a03",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "573a41c9-c55b-4447-b066-a958fbd93234"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -73,6 +83,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1de98078-9f3e-4c92-ad29-73252a5a2704",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

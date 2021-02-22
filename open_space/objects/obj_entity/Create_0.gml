@@ -1,4 +1,5 @@
 /// @description Базовая сущность
+event_inherited()
 hp = 100
 mp = 100
 armor = 100
@@ -12,3 +13,4 @@ mp_current = mp
 setted_guns = ds_list_create()
 image_angle = 90
 rotation = image_angle
+global_move_state = move.idle
