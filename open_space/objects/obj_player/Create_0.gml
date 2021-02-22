@@ -1,6 +1,6 @@
 /// @description 
 event_inherited();
-ship_set("test")
+ship_set("spr_main_ship")
 
 add_gun("left", "test", 15, -18)
 add_gun("front", "test", 30, 0)
