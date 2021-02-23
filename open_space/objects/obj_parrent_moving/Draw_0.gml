@@ -34,5 +34,5 @@ switch global_move_state {
 	#endregion	
 }
 #endregion
-
+//draw_rectangle(global.view_delta_w + 200,global.view_delta_h + 200, global.view_width - 200, global.view_height - 200, 1)
 draw_self()
