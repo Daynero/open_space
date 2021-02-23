@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "3da0ca1e-6c2f-40b1-bc73-09cca7a129c4",
-            "Value": {
-                "id": "85f5aabe-be47-4019-9917-1b97dd729ac0",
-                "resourcePath": "scripts\\calculate_warning_zone\\calculate_warning_zone.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "4409f996-10c4-4681-a0a8-0624484beb96",
             "Value": {
                 "id": "592a7e6f-f33c-49d2-8dee-453186b43c6f",
@@ -608,8 +600,7 @@
         "08aec2a6-31bb-4da4-80e8-8b9aeee9561f",
         "2323a26f-6268-4363-a32a-319f2503e78d",
         "96f03838-9ac6-4a85-bc75-f828a2fc69a2",
-        "e2162c56-63fb-4e39-b838-b32fd2c988ce",
-        "3da0ca1e-6c2f-40b1-bc73-09cca7a129c4"
+        "e2162c56-63fb-4e39-b838-b32fd2c988ce"
     ],
     "tutorial": ""
 }
