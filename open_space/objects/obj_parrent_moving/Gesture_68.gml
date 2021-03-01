@@ -1,10 +1,5 @@
 #region State Global Machine
 switch global_move_state {
-	#region idle
-	case move.idle:
-		
-		break
-	#endregion	
 	#region player_manual_tap
 	case move.player_manual_tap:
 		#region Locale State Machine
@@ -25,7 +20,6 @@ switch global_move_state {
 	#endregion
 	#region player_manual_drag
 	case move.player_manual_drag:
-		#region Locale State Machine
 		switch locale_state {
 			#region finger_down
 			case locale_move.finger_down:
@@ -38,7 +32,6 @@ switch global_move_state {
 				break
 			#endregion
 		}
-		#endregion
 		break
 	#endregion	
 }

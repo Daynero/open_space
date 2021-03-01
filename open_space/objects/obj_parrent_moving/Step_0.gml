@@ -55,8 +55,8 @@ switch global_move_state {
 						var target_x = x
 						var target_y = y
 					}
-					test_speed = 5//irandom_range(min_enemy_speed, max_enemy_speed)
-					move_towards_point(target_x, target_y, test_speed)
+					calc_speed = irandom_range(min_enemy_speed, max_enemy_speed)
+					move_towards_point(target_x, target_y, calc_speed)
 			
 					locale_state = locale_move.warning	
 				}
